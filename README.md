@@ -1,46 +1,47 @@
 # Bruno Teixeira da Silva
 
-Desde 2008 desenvolvendo códigos para sobreviver. Tive PHP, .Net Framework e muito JavaScript na minha trajetória. Hoje, desenvolvo de maneira em que fique alocado em posição estratégica, sempre buscando atacar e resolver problemáticas recorrentes/previstas em projetos modernos.
+Desde 2008 desenvolvendo códigos para sobreviver. Estive trabalhando com PHP, .Net Framework/Core, além de muito código escrito em JavaScript/TypeScript na minha trajetória. 
+Hoje, desenvolvo de maneira em que fique alocado em posições estratégicas, sempre buscando minimizar repetições e de fato buscar resolver problemáticas recorrentes/previstas em projetos modernos ou em fase inicial.
 
-Atualmente, busco desenvolver tudo que for possível com o ecossistema NodeJS/NPM e apresentar os produtos com ReactJS/React Native.
+Atualmente, meu principal papel é dividir o meu tempo entre Gerenciar e Desenvolver tudo que for possível, com o ecossistema .Net/NodeJS/NPM e apresentar os produtos com ReactJS/React Native.
+Também, costumo refatorar e executar mini-projetos de melhorias contínuas nos sistemas os quais atendo. Por meio de análise, busco identificar potenciais oportunidades e com o uso de tecnologias de ponta, fazermos uma breve e acessível revolução no seu negócio.
 
-Trabalhei com empresas de tecnologia como a Arquia Tecnologia e Inovação, NexAtlas, Zerobyte, ProgIT, Rodosoft, SAP, Moreflex, entre outras.
+Por fim, minimamente, trabalhei e atendo a empresas do ramo de tecnologia como a TCS, Arkium Tecnologia, NexAtlas, Zerobyte, ProgIT, Rodosoft, SAP, assim como de outros ramos (Moreflex, entre outras).
 
 ## Tecnologias atuais
 
 ### Fortes
 
-- ReactJS
-- NodeJS
-- Material-UI
-- Google Cloud Platform
-- Firebase Services (Host, Firestore, Authentication)
-- Cordova Apps (_builds_ para Android e iOS)
-- HTML + CSS + JS (ES7)
+- ReactJS / TypeScript.
+- NodeJS.
+- .Net Framework / Core / latest.
+- Fluent UI / Material-UI.
+- Azure Cloud / Google Cloud Platform Certified.
+- Firebase Services (Host, Firestore, Authentication).
+- Cordova Apps (_builds_ para Android e iOS).
+- HTML + CSS + JS (ES7).
 
 ### Outras
 
-- React Native
-- Qualquer plataforma Unix-based (Linux Ubuntu, KDE, MacOS)
+- React Native.
+- Qualquer plataforma Unix-based (Linux Ubuntu, KDE, MacOS).
 
 ---
 
-## Como eu gosto de trabalhar?
+## Como eu Posso trabalhar?
 
-1. Por _contrato de prestação_ de serviços **fixo**
-2. Por contrato de **horas trabalhadas** (_free ride_)
+1. Por _contrato de prestação_ de serviços com **valor fixo**.
+2. Por _projeto_, com contrato baseado em **horas trabalhadas**.
 
-## Quanto eu custaria?
+## Quanto custaria?
 
 1. Nos contratos **fixos**, negocio um valor **fixo** mensal, com jornada horária **fixa**.
-   - Inicio a negociação no valor de R$ 7.500,00/mês.
-2. Nos contratos de _free ride_, negocio um valor por **hora trabalhada**.
-   - Inicio a negociação no valor de R$ 95,00/hora.
-   - OBS.: Deste modo, posso estender jornadas de trabalho, **quando necessário** e demandado.
+   - Inicio a negociação em privado.
+2. Nos contratos por horas trabalhadas, negocio um valor por **hora de trabalho**.
+   - Inicio a negociação em privado.
+   - OBS.: Deste modo, posso estender mais as jornadas de trabalho, **quando necessário** e demandado por urgências.
 
-## Ok. Como me encontrar?
+## Como me encontrar?
 
-- WhatsApp +55 (51) 99338-1562
-- [LinkedIn](https://www.linkedin.com/in/bruno-teixeira-da-silva-6918766a/)
-- [GitHub](https://github.com/brunoteixeirasilva)
-- E-mail bruno.teixeira.silva@gmail.com (assunto sugerido: "Oportunidade de trabalho")
+- [LinkedIn](https://www.linkedin.com/in/bruno-teixeira-da-silva-6918766a/).
+- [GitHub](https://github.com/brunoteixeirasilva).
